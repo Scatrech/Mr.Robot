@@ -2,13 +2,13 @@
 Repositorio para informarse sobre la serie de tv en cuestion
 ## MR ROBOT:
 **Mr robot** se caracteriza en ser una serie sobre hackeo y sobre cybersuguridad en donde nos presengan la vida de Elliot Alderson, un programador que trabaja para una importante companiña de cyberseguridad llamada "all Safe"
-![Foto1]https://flxt.tmsimg.com/assets/p11682476_b_v13_ae.jpg)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### En donde ver la serie?  
 Mr.Robot en Guatemala actualmente se puede ver en [Mr.Robot temporada 1. Prime Video](https://www.primevideo.com/detail/0ND5POOAYD6A4THTH7C1TD3TYE/ref=atv_dp_season_select_s1?language=es_ES).
 
 
-### Listado de episodios de la primera temporada
+### Listado de episodios de la primera temporada :smile:
 1. eps1.1_ones-and-zer0es.mpeg
 2. eps1.2_d3bug.mkv
 3. eps1.3_da3m0ns.mp4
@@ -20,7 +20,7 @@ Mr.Robot en Guatemala actualmente se puede ver en [Mr.Robot temporada 1. Prime V
 
 
 ### Critica profesional de la serie:
-[Mr. Robot (TV Series 2015–2019) - IMDb](https://www.imdb.com/title/tt4158110/).
+[Mr. Robot (TV Series 2015–2019) - IMDb](https://www.imdb.com/title/tt4158110/).&#x2764;
 
 
 ![foto2]https://flxt.tmsimg.com/assets/p11682476_b_v13_ae.jpg)
