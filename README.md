@@ -23,4 +23,4 @@ Mr.Robot en Guatemala actualmente se puede ver en [Mr.Robot temporada 1. Prime V
 [Mr. Robot (TV Series 2015–2019) - IMDb](https://www.imdb.com/title/tt4158110/).&#x2764;
 
 
-![This is an image]https://flxt.tmsimg.com/assets/p11682476_b_v13_ae.jpg)
+![This is an image](https://flxt.tmsimg.com/assets/p11682476_b_v13_ae.jpg)
